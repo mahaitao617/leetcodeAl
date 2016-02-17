@@ -5,7 +5,7 @@ For example, given n = 3, a solution set is:
 class Solution {
 public:
     /*
-    this hepler function insert result strings to "vector<string> result"
+    This hepler function insert result strings to "vector<string> result"
     When number of '(' less than "n", can append '(';
     When number of '(' is more than number of ')', can append ')';
     string s : current string;
